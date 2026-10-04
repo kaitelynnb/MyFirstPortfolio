@@ -11,7 +11,7 @@ This project is the foundation for my personal portfolio website. It includes a 
 - Contact (contact.html)
 
 ## Published Website
-You can [view the published website here]().
+You can [view the published website here](https://kaitelynnb.github.io/MyFirstPortfolio/).
 
 ## AI Use Statement
 Written content for this website was generated with the assistance of ChatGPT and reviewed and edited by Kaitelynn Blethen. All HTML and CSS code was written by Kaitelynn Blethen.
